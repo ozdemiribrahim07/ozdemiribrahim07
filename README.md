@@ -2,7 +2,7 @@
  Hi there 👋, I'm Ibrahim
 
 - 🔭 I’m currently working on sales site project.
-- 🌱 I’m currently learning Net Core ABP Framework.
+- 🌱 I’m currently learning ABP Framework.
 -  📫 ozdemiribrahim07@gmail.com
 <!--
 **ozdemiribrahim07/ozdemiribrahim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
