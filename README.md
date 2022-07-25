@@ -1,7 +1,7 @@
  
  Hi there 👋, I'm Ibrahim
 
-- 🔭 I’m currently working on sales site project.
+
 - 🌱 I’m currently learning NET Core Microservices.
 -  📫 ozdemiribrahim07@gmail.com
 <!--
