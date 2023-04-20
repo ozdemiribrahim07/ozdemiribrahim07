@@ -2,7 +2,7 @@
  Hi there 👋, I'm Ibrahim
 
 
--  📫 ozdemiribrahim07@gmail.com
+-  📫 ozdmirr77@gmail.com
 <!--
 **ozdemiribrahim07/ozdemiribrahim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 A Backend Developer in living in Turkey 
